@@ -1,0 +1,3 @@
+mongodb-runner start
+
+pause

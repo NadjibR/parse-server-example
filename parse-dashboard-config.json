@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://localhost:1337/parse",
+      "appId": "asset-manager",
+      "masterKey": "my-master-key",
+      "appName": "Asset Manager"
+    }
+  ]
+}
